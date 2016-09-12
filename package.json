@@ -1,5 +1,5 @@
 {
-  "name": "object-values",
+  "name": "object2array",
   "version": "1.0.0",
   "description": "Get Object values as array, or toString",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/wenqingyu/object-values.git"
+    "url": "git@github.com:wenqingyu/object2array.git"
   },
   "keywords": [
     "Object",
@@ -20,9 +20,9 @@
   "author": "Wenqing Yu",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/wenqingyu/object-values/issues"
+    "url": "https://github.com/wenqingyu/object2array/issues"
   },
-  "homepage": "https://github.com/wenqingyu/object-values",
+  "homepage": "https://github.com/wenqingyu/object2array",
   "dependencies": {
     "co": "^4.6.0"
   }
