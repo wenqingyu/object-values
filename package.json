@@ -1,0 +1,29 @@
+{
+  "name": "object-values",
+  "version": "1.0.0",
+  "description": "Get Object values as array, or toString",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wenqingyu/object-values.git"
+  },
+  "keywords": [
+    "Object",
+    "Array",
+    "Object.values",
+    "values",
+    "ES6"
+  ],
+  "author": "Wenqing Yu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wenqingyu/object-values/issues"
+  },
+  "homepage": "https://github.com/wenqingyu/object-values",
+  "dependencies": {
+    "co": "^4.6.0"
+  }
+}
